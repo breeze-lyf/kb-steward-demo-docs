@@ -1,12 +1,12 @@
 ---
 title: Travel FAQ
 owner: finance
-last_reviewed: 2025-01-20
+last_reviewed: 2026-11-04
 ---
 Example data.
 
 ## Do I get a per diem?
-Yes. You can spend up to $50 a day on meals while travelling; keep receipts for anything above $40.
+Yes. Effective July, you can spend up to $65 a day on meals while travelling; keep receipts for meal expenses above $25.
 
 ## Can I book my own flights?
 Economy flights may be booked directly if they are at least 15% cheaper than the travel portal price.
